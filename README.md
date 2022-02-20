@@ -1,2 +1,2 @@
 # Algorithms
- My algorithm exercises
+ My algorithm exercises.
